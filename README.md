@@ -10,7 +10,6 @@ This project demonstrates how to scrape data from the 2024 Boston Marathon Women
 - [Evaluation](#evaluation)
 - [Future Improvements](#future-improvements)
 - [Installation and Usage](#installation-and-usage)
-- [Contributors](#contributors)
 
 ## Project Overview
 
