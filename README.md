@@ -15,6 +15,7 @@ This project demonstrates how to scrape data from the 2024 Boston Marathon Women
 
 This repository includes a Python notebook where:
 - **Data** from the 2024 Boston Marathon Women's results was scraped and cleaned.
+- The actual data .csv files (raw) and (cleaned), in case you want to jump right to modelling.
 - Two machine learning models (Random Forest and Gradient Boosting) were trained to predict **Finish Net time** based on the **Half marathon time**.
 - The project compares the performance of these models and evaluates them using **Mean Absolute Error (MAE)** and **Mean Squared Error (MSE)**.
 
