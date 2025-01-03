@@ -71,9 +71,18 @@ To run this project, you will need the following libraries:
 - `scikit-learn`
 - `seaborn`
 - `matplotlib`
-- `requests` (for scraping)
+- `selenium` 
 
 To install the dependencies, you can run:
 
 ```bash
-pip install -r requirements.txt
+`pip install -r requirements.txt`
+
+### Usage:
+
+- Clone the repository:
+` git clone https://github.com/amanda-nathan/BostonMarathon2024_women_scrape_and_model.git`
+
+- Run the notebook:
+` jupyter notebook Boston_Marathon_Model.ipynb`
+
