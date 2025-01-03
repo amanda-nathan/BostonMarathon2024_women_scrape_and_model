@@ -76,7 +76,8 @@ To run this project, you will need the following libraries:
 To install the dependencies, you can run:
 
 ```bash
-`pip install -r requirements.txt`
+pip install -r requirements.txt
+```
 
 ### Usage:
 
