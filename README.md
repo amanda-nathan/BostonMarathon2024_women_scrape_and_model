@@ -48,12 +48,12 @@ The models were evaluated using:
 - **Mean Squared Error (MSE)**: Measures the average of the squared differences between predicted and actual values.
 
 ### Results:
-- Random Forest Model achieved a **MAE** of 9.95 minutes and an **MSE** of 194.77 minutes².
-- Gradient Boosting Model achieved a **MAE** of 8.60 minutes and an **MSE** of 145.47 minutes².
+- Random Forest Model achieved a **MAE** of 9.95 minutes and an **MSE** of 194.77 minutes.
+- Gradient Boosting Model achieved a **MAE** of 8.60 minutes and an **MSE** of 145.47 minutes.
 
 After hyperparameter tuning:
-- Random Forest tuned model achieved a **MAE** of 8.87 minutes and an **MSE** of 156.28 minutes².
-- Gradient Boosting tuned model achieved a **MAE** of 8.48 minutes and an **MSE** of 143.18 minutes².
+- Random Forest tuned model achieved a **MAE** of 8.87 minutes and an **MSE** of 156.28 minutes.
+- Gradient Boosting tuned model achieved a **MAE** of 8.48 minutes and an **MSE** of 143.18 minutes.
 
 ## Future Improvements
 
